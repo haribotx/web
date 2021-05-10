@@ -18,7 +18,7 @@ const setBgOverlay = () => {
     const bgHeight = $('body').height();
     const tmBgLeft = $('.tm-bg-left');
 
-    $('.tm-bg').height(bgHeight);
+    // $('.tm-bg').height(bgHeight);
 
     if(windowWidth > 768) {
         tmBgLeft.css('border-left', `0`)
