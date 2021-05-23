@@ -6,19 +6,22 @@ https://templatemo.com/tm-550-diagoona
 
 */
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&family=Poppins&family=Roboto&display=swap');
 body {
-    font-family: 'Space Mono', monospace;
+    /* font-family: 'Space Mono', monospace; */
+    font-family: 'Inter', sans-serif;
+    /* font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif; */
     font-size: 17px;
     font-weight: 300;
     overflow-x: hidden;
     color: rgba(255, 255, 255, 0.733);
     background-color: #2C353C;
 }
-p{
-    
+/* p{
     font-family: 'Libre Baskerville', serif;
-    
-}
+} */
 a { 
     transition: all 0.3s ease; 
     text-decoration: none;
